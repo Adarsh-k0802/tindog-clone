@@ -1,0 +1,153 @@
+
+body{
+    font-family: 'Montserrat';
+}
+
+#title{
+    background-color: #ff4c68;
+    color: whitesmoke;
+}
+.title-div{
+   padding-bottom: 5.4%;
+}
+.container-fluid{
+    padding-left:15% !important;
+    padding-right: 15% !important;
+    padding-top: 3%;
+    padding-bottom: 7%;
+}
+.tup{
+    font-family: 'Montserrat', Black 900;
+    font-weight: bolder;
+   
+    font-size: 3.5rem !important;
+    line-height: 1.5;
+    margin-top: 2rem;
+}
+
+.navbar{
+    padding:0 0 4rem !important;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size:2.5rem !important;
+    font-weight: bold;
+    
+}
+.nav-item{
+    font-size:20px !important;
+   
+}
+.download-button{
+    margin: 3% 3%;
+    margin-left: 0;
+}
+
+.title-image{
+    width: 24%;
+    padding-left: 4rem;
+    transform: rotate(30deg);
+   position: absolute;
+   right: 25%;
+    
+}
+
+
+
+#features{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: whitesmoke;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5% !important;
+}
+h3{
+    font-family: "Montserrat-Bold";
+    font-weight: bold;
+}
+p{
+    color: gray;
+   
+}
+.price-p{
+    color: gray;
+    text-align: center;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color:#ff4c68;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    background-color:#ff4c68; 
+    color: whitesmoke;
+}
+.dog{
+    font-family:'Montserrat', 900 ;
+    font-size: 3rem;
+    font-weight: bold;
+   line-height: 1.5;
+   text-align: center;
+   margin-left: 7%;
+   margin-right: 10%;
+}
+
+.testimonial-image{
+    width: 20% !important;
+    border-radius: 100% !important;
+    margin: 20px !important;
+}
+
+#press{
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 3% !important;
+}
+
+.press-img{
+    width: 9% !important;
+    margin-left: 3% !important;
+    margin-right: 3% !important;
+}
+.price-card{
+    text-align: center;
+  height: 50%;
+}
+.price-head{
+    text-align: center;
+    background-color:#ff4c68 !important;
+    color: whitesmoke;
+}
+.price-btn{
+    margin-top: 13% !important;
+}
+
+#cta{
+    text-align: center;
+    background-color:#ff4c68 !important;
+}
+
+#footer{
+    text-align: center;
+}
+.footer-div{
+    margin-top: 2%;
+}
+.ramu{
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 12px;
+    color: black;
+}
